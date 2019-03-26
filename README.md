@@ -1,7 +1,7 @@
 Data Science
 ==============================
 
-A short description of the project.
+This little project consists on reading and cleaning 3 different types of data sets. The first one is about currencies, the second one about some Iris data, and the third one about measures.
 
 Project Organization
 ------------
